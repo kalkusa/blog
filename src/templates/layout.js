@@ -1,7 +1,7 @@
 import React from 'react';
 import 'prismjs/themes/prism.css';
 
-import '../global-styles';
+import '../global-styles.css';
 import userConfig from '../../config';
 
 import Header from '../components/Header';
