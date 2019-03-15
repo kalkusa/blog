@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Arkadiusz Kałkus - on software development', // Required
-  author: 'Arkadiusz Kałkus', // Required
+  author: 'Arkadiusz Kałkus', 
   description: 'Full-stack Web Developer',
-  primaryColor: '#3498db', // Required
+  primaryColor: '#888888',
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
